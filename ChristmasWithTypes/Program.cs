@@ -31,6 +31,14 @@ namespace ChristmasWithTypes
             }
 
             Console.WriteLine($"\n We like to call Santa, {xmas.Santa}");
+            var thisString = "Eggs";
+            var numINt = 16;
+            var girlChar = 'q';
+            var teaBool = false;
+            var twinDouble = 15 * 12;
+            Console.WriteLine("eggs" + "16" + "q" + "false" + "15*12");
+
         }
     }
+
 }
